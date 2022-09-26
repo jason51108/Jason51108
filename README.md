@@ -1,8 +1,8 @@
-- 👋 Welcome to here!! Is now on graduate one in SUIBE!!
+- 👋 Welcome to here!! I am now on graduate one in SUIBE!!
 
-- 👀 Usually like exercise, playing basketball, table tennis, badminton can oh!
+- 👀 Usually like exercise, playing basketball, table tennis, badminton and so on.
 
-- 🌱 I am currently studying time series analysis, econometrics, statistical inference, and deep learning 
+- 🌱 I am currently studying time series analysis, econometrics, statistical inference, and deep learning. 
 
 - 💞️ I like to find a partner to study or exercise with, and work together to make progress.
 
