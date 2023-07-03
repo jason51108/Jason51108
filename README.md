@@ -1,12 +1,12 @@
-- 👋 Welcome to here!! I am now on graduate one in SUIBE!!
+- 👋 目前在上海某大学应用统计专业读研，准研二了。
 
-- 👀 Usually like exercise, playing basketball, table tennis, badminton and so on.
+- 👀 喜欢玩游戏(csgo、LOL)等、也喜欢健身锻炼和其他体育运动。
 
-- 🌱 I am currently studying time series analysis, econometrics, statistical inference, and deep learning. 
+- 🌱 研究方向是时间序列分析，熟悉常见的时间序列分析框架和模型，以transformer模型框架为主。
 
-- 💞️ I like to find a partner to study or exercise with, and work together to make progress.
+- 💞️ 如果你和我有相同的兴趣爱好的话，可以一块交流，一块Play哦！
 
-- 📫 If you have any questions or suggestions, you can send them to brainiaccc@foxmail.com. I will reply to you as soon as I receive the message.
+- 📫 邮箱地址：brainiaccc@foxmail.com. 欢迎联系！
 
 
 <!---
