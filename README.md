@@ -6,7 +6,7 @@
 
 - 💞️ 如果你和我有相同的兴趣爱好的话，可以一块交流，一块Play哦！
 
-- 📫 邮箱地址：brainiaccc@foxmail.com.  个人网站：https://jason51108.github.io/
+- 📫 邮箱地址：brainiaccc@foxmail.com.  个人网站：http://aquariusplanet.top
 
 
 <!---
