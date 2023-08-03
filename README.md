@@ -1,3 +1,8 @@
+## My github contribution
+![](https://raw.githubusercontent.com/jason51108/jason51108/main/assets/github-contribution-grid-snake.svg)
+
+
+## About me
 - 👋 目前在上海某大学应用统计专业读研，准研二了。
 
 - 👀 喜欢玩游戏(csgo、LOL)等、也喜欢健身锻炼和其他体育运动。
