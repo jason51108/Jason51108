@@ -7,15 +7,13 @@
 </picture>
 
 ## About me
-- 👋 目前在上海某大学应用统计专业读研，准研二了。
+- 👋 postgraduate, Majored in Applied Statistics
 
-- 👀 喜欢玩游戏(csgo、LOL)等、也喜欢健身锻炼和其他体育运动。
+- 👀 gaming enthusiast(csgo、LOL···)
 
-- 🌱 研究方向是时间序列分析，熟悉常见的时间序列分析框架和模型，以transformer模型框架为主。
+- 🌱 Specialization is in time series（transformer、LSTM、Timesnet)
 
-- 💞️ 如果你和我有相同的兴趣爱好的话，可以一块交流，一块Play哦！
-
-- 📫 邮箱地址：brainiaccc@foxmail.com.  个人网站：http://aquariusplanet.top
+- 📫 Email：brainiaccc@foxmail.com.  Website：http://aquariusplanet.top
 
 
 <!---
