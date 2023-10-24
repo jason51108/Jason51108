@@ -13,7 +13,7 @@
 
 - 🌱 Specialization is in time series（transformer、LSTM、Timesnet)
 
-- 📫 Email：brainiaccc@foxmail.com.  Website：~http://aquariusplanet.top~(has expired! Please click here:https://jason51108.github.io/) 
+- 📫 Email：brainiaccc@foxmail.com.  Website：~~http://aquariusplanet.top~~ (has expired! Please click here:https://jason51108.github.io/) 
 
 
 <!---
