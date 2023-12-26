@@ -7,11 +7,14 @@
 </picture>
 
 ## About me
-- 👋 postgraduate, Majored in Applied Statistics
+Welcome to my GitHub! Currently, I am pursuing a master's degree in Applied Statistics at Shanghai University of International Business and Economics. My research focuses on time series analysis. In September of next year, I will be heading to Southern University of Science and Technology to pursue a Ph.D. in Mathematics, specializing in graph neural networks and causal inference. During my free time, I enjoy writing some interesting code. If you have any questions about my projects, feel free to contact me via email.
+The more detailed content is as follows.
 
-- 👀 gaming enthusiast(csgo、LOL···)
+- 👋 Postgraduate, Majored in Applied Statistics
 
-- 🌱 Specialization is in time series（transformer、LSTM、Timesnet)
+- 👀 Gaming enthusiast(LOL、csgo2···)
+
+- 🌱 Attention！Prefer cats over dogs.
 
 - 📫 Email：brainiaccc@foxmail.com.  Website：~~http://aquariusplanet.top~~ (has expired! Please click here:https://jason51108.github.io/) 
 
